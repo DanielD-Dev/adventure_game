@@ -1,2 +1,2 @@
-# adventure_game
-Text-based Adventure Game
+# Text-based Adventure Game
+This Python project is a text-based adventure game where players explore an open field, encounter different characters (pirate, dude, or spider), and make choices that determine the outcome of their encounters. The game features a house and a cave that players can interact with, and they can find a magical sword in the cave to enhance their chances of winning fights. The game utilizes random character selection and provides options to play again or quit. It is implemented using basic Python concepts such as functions, input/output, lists, and conditional statements.
